@@ -1,0 +1,9 @@
+{
+    "start_url": "https://adminbest1.github.io/braslet/home/",
+    "name": "Braslet",
+    "short_name": "Braslet",
+    "description": "Braslet",
+    "display": "standalone",
+    "orientation": "any",
+    "lang": "Russian"
+}
